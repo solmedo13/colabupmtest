@@ -1,0 +1,33 @@
+[0104/162051.593:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/162054.994:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/162056.455:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/163223.935:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/164121.735:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/164347.925:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/164403.431:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/164403.483:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/164422.149:ERROR:process_info.cc(359)] UncheckedAllocate
+[0104/165144.236:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/135744.919:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/135744.976:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/135746.040:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/150116.670:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/150625.017:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/161703.483:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/161744.461:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/161749.286:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/161749.569:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/161750.680:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/161750.826:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[0107/161750.827:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0107/161750.838:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0107/161750.839:ERROR:exception_snapshot_win.cc(88)] thread ID 39332 not found in process
+[0107/161750.839:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[0107/162046.693:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162046.853:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162047.091:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162056.291:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162056.301:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162056.343:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162056.357:ERROR:process_info.cc(359)] UncheckedAllocate
+[0107/162100.670:ERROR:process_info.cc(359)] UncheckedAllocate
